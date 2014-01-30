@@ -1,0 +1,17 @@
+{
+	"name": "moveforward/menumania-api",
+	"description": "A Silverstripe interface for the Menumania API.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "menumania"],
+	"authors": [
+	{
+		"name": "Paul Bennett",
+		"email": "paul@moveforward.co.nz"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1"
+	}
+}

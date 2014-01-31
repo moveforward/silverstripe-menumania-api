@@ -1,5 +1,5 @@
 {
-	"name": "moveforward/menumania-api",
+	"name": "moveforward/menumania",
 	"description": "A Silverstripe interface for the Menumania API.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "menumania"],
